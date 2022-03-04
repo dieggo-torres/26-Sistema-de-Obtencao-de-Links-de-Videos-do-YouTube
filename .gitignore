@@ -1,0 +1,6 @@
+# Ignorar arquivo .env
+.env
+
+# Pastas para ignorar
+projeto26
+__pycache__
